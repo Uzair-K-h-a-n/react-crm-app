@@ -36,7 +36,7 @@ const Registration = (props) => {
 
     return (
             <Grid container>
-                <Grid item xs={6}>g
+                <Grid item xs={6}>g 
                     <Card variant="outlined">
                         <CardContent>
                             <form className={classes.form} noValidate autoComplete="off">
